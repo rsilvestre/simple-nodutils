@@ -1,11 +1,11 @@
 {
   "author": "davidayalas",
-  "name": "nodutils",
-  "description": "Node utilities to manage common operations over: string, numeric, array, date, file, url, cache, properties files, geocoding",
-  "keywords" : ["utilities","cache","caching","properties","url","file","string","number","array","date","geo","geocoding","reverse geocoding"],
-  "version": "0.1.5",
+  "name": "simple-nodutils",
+  "description": "Node utilities to manage common operations over: string, numeric, array, date",
+  "keywords" : ["utilities","string","number","array","date"],
+  "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/davidayalas/nodutils/",
+    "url": "https://github.com/rsilvestre/simple-nodutils/",
     "type" : "git"
   },
   "main": "./index.js",
