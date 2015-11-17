@@ -3,7 +3,7 @@
   "name": "simple-nodutils",
   "description": "Node utilities to manage common operations over: string, numeric, array, date",
   "keywords" : ["utilities","string","number","array","date"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "url": "https://github.com/rsilvestre/simple-nodutils/",
     "type" : "git"
